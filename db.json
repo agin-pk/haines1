@@ -9,42 +9,7 @@
     "roster_entry": [],
     "pre-fireplanning_entry": [],
     "accident_report": [],
-    "case_register": [
-      {
-        "fullName": "",
-        "phoneNumber": "07593942750",
-        "streetAddress": "test adress",
-        "cityStateZip": "Trivandrum",
-        "incidentDate": "2024-06-11T18:30:00.000Z",
-        "incidentTime": "14:47",
-        "incidentType": {
-          "name": "Theft",
-          "code": "theft"
-        },
-        "hasSuspectInfo": {
-          "name": "No",
-          "code": "no"
-        },
-        "hasWitnessInfo": {
-          "name": "No",
-          "code": "no"
-        },
-        "injuries": {
-          "name": "Yes",
-          "code": "yes"
-        },
-        "reportedBefore": {
-          "name": "Yes",
-          "code": "yes"
-        },
-        "restrainingOrders": {
-          "name": "Yes",
-          "code": "yes"
-        },
-        "isNew": true,
-        "id": 1
-      }
-    ],
+    "case_register": [],
     "clerk-purchase_entry": [],
     "background_check": [],
     "lost_property": [],
